@@ -6,3 +6,5 @@
 - Decrypts the response data from https://mssdk-va.tiktok.com/web/resource
 ## eq.js
 - Generates the query parameter needed for https://mssdk-va.tiktok.com/web/resource?eq=
+## mssdkinfo.js
+- Generates x-mssd-info used by some requests
